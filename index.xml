@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hagbarth</title>
-    <link>http://replace-this-with-your-hugo-site.com/index.xml</link>
+    <link>https://hagbarth.github.io/index.xml</link>
     <description>Recent content on Hagbarth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Sep 2016 00:12:04 +0200</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hagbarth.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>New Schedule!</title>
-      <link>http://replace-this-with-your-hugo-site.com/post/new-schedule/</link>
+      <link>https://hagbarth.github.io/post/new-schedule/</link>
       <pubDate>Wed, 07 Sep 2016 00:12:04 +0200</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/post/new-schedule/</guid>
+      <guid>https://hagbarth.github.io/post/new-schedule/</guid>
       <description>
 
 &lt;h1 id=&#34;i-have-a-new-schedule&#34;&gt;I have a new schedule!&lt;/h1&gt;
