@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hagbarth</title>
-    <link>https://hagbarth.github.io/categories/musings/index.xml</link>
-    <description>Recent content on Hagbarth</description>
+    <title>Musings on Emil Hagbarth</title>
+    <link>https://hagbarth.github.io/categories/musings/</link>
+    <description>Recent content in Musings on Emil Hagbarth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://hagbarth.github.io/categories/musings/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Sep 2016 00:12:04 +0200</lastBuildDate>
+    
+	<atom:link href="https://hagbarth.github.io/categories/musings/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>New Schedule!</title>
@@ -14,43 +17,8 @@
       <pubDate>Wed, 07 Sep 2016 00:12:04 +0200</pubDate>
       
       <guid>https://hagbarth.github.io/post/new-schedule/</guid>
-      <description>
-
-&lt;h1 id=&#34;i-have-a-new-schedule&#34;&gt;I have a new schedule!&lt;/h1&gt;
-
-&lt;h3 id=&#34;do-you-want-to-see-it&#34;&gt;Do you want to see it?&lt;/h3&gt;
-
-&lt;p&gt;So I read this &lt;a href=&#34;https://medium.com/the-mission/how-to-structure-your-day-for-optimal-performance-and-productivity-dcbf0665e3f3&#34;&gt;Medium post&lt;/a&gt;
-about how you should get up really early in the morning and work very focused for about 5 ours before doing anything else.&lt;/p&gt;
-
-&lt;p&gt;Well - I&amp;rsquo;m not gonna get up at 5am as the guy who wrote the post does. That&amp;rsquo;s just not me. But I &lt;strong&gt;am&lt;/strong&gt; gonna get up at &lt;em&gt;before&lt;/em&gt; 7am and make sure that I&amp;rsquo;m ready to work by that time. Why? Because the post outlines a thing, that I&amp;rsquo;ve been thinking about for a while.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Being focused while working matters. A lot! - Probably Einstein&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Anyway. I&amp;rsquo;m writing this a 12:30 am sooooh, but I promises I will. keep. to. this. schedule.&lt;/p&gt;
-
-&lt;p&gt;So without further ado - my day:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Before 7am (preferably 6:30am):&lt;/strong&gt; GET UP. Make some coffee and oatmeal. Sit down at my computer. Contemplate if there&amp;rsquo;s time. Or meditate.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;7am - 11am&lt;/strong&gt;: Get an overview of what needs to be done. Open my über cool &lt;a href=&#34;http://pomodorotechnique.com/&#34;&gt;pomodoro&lt;/a&gt; timer app and get to work.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;11am - 1pm&lt;/strong&gt;: Lunch and gym (also shower)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;1pm - ~5pm&lt;/strong&gt;: Got more work to do? Go to a café. Order an americano and get going. Also meetings. And catching up with friends family etc.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;5pm - ~8pm&lt;/strong&gt;: Dinner and quality time with the missus or friends.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;8pm - ~23am&lt;/strong&gt;: Got even more work? (really? It won&amp;rsquo;t be quality at this time, so it better be routine stuff.) Do it! If not: Write blog posts. Watch tv. Have fun. Contemplate.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Before 12am&lt;/strong&gt;: Go to bed already.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;So that&amp;rsquo;s my new day! Not getting up to early. I don&amp;rsquo;t need the early mornings to have quiet time. I work mostly from home and my girlfriend leaves before 7am anyway, so I have plenty of wiggle room for my brain to operate in. Also blocked out time for &lt;em&gt;not work&lt;/em&gt;. This is key to not getting burned out (and keeping my SO). Still on really busy days I have a good 11 hours to work in!&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ll have more stuff on &lt;strong&gt;pomodoro&lt;/strong&gt; and how this works out for me.&lt;/p&gt;
-
-&lt;p&gt;&amp;ndash;&lt;/p&gt;
-
-&lt;p&gt;Emil Hagbarth&lt;/p&gt;
-</description>
+      <description>So I read this Medium post about how you should get up really early in the morning and work very focused for about 5 ours before doing anything else.
+Well - I&amp;rsquo;m not gonna get up at 5am as the guy who wrote the post does. That&amp;rsquo;s just not me. But I am gonna get up at before 7am and make sure that I&amp;rsquo;m ready to work by that time. Why?</description>
     </item>
     
   </channel>

@@ -1,36 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Post-rsses on Hagbarth</title>
-    <link>https://hagbarth.github.io/post/index.xml</link>
-    <description>Recent content in Post-rsses on Hagbarth</description>
+    <title>Posts on Emil Hagbarth</title>
+    <link>https://hagbarth.github.io/post/</link>
+    <description>Recent content in Posts on Emil Hagbarth</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Oct 2016 10:51:33 +0200</lastBuildDate>
-    <atom:link href="https://hagbarth.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Sep 2016 00:12:04 +0200</lastBuildDate>
     
-    <item>
-      <title>Ønskeseddel</title>
-      <link>https://hagbarth.github.io/post/wishlist/</link>
-      <pubDate>Sat, 22 Oct 2016 10:51:33 +0200</pubDate>
-      
-      <guid>https://hagbarth.github.io/post/wishlist/</guid>
-      <description>
-
-&lt;h1 id=&#34;ønskeseddel&#34;&gt;Ønskeseddel&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Buff (&lt;a href=&#34;https://www.spejdersport.dk/buff-merinould.aspx&#34;&gt;link&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Bluetooth høretelefoner (in-ear, f.eks &lt;a href=&#34;http://www.apple.com/dk/shop/product/MLYF2ZM/A/beatsx-%C3%B8retelefoner-hvid?fnode=f887f526076e7345f0f732b22b7d172047c7bf5b9e8ee591edcb6b839e20b58614845d161d6729fe8c9de6fc4ac55ba0095008e52895b56e721c9dfa61a7cb173027af739323ac07448799e0e2ecc91201387746e17fa8f8fc7bb9e1746410294cf2a6d81fb669a72f0d9eef44fc2c0800d652b17adadf2be6447471230353ee&amp;amp;fs=f%3Dbluetooth%26fh%3D47cf%252B3028&#34;&gt;disse&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Manuel kaffemølle (&lt;a href=&#34;http://www.rigtigkaffe.dk/manuelle-kaffemoller/8025-espresso-gear-tiamo-kaffemolle.html&#34;&gt;link&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Pour over kaffe kande (&lt;a href=&#34;http://www.kaffemekka.dk/shop/735-hario/597-hario-buono-kande-12l-vkb-120/&#34;&gt;link&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Pour over filter trakt (&lt;a href=&#34;http://www.kaffemekka.dk/shop/735-hario/695-hario-v60-2-kops-filterholder-i-plastik-vd-02-t/&#34;&gt;link&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Eventuel Hario start kit (&lt;a href=&#34;http://www.kaffemekka.dk/shop/735-hario/1024-hario-v60-startpakke/&#34;&gt;link&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Kaffe vægt (&lt;a href=&#34;http://www.kaffemekka.dk/shop/735-hario/1023-hario-v60-drip-scale-vst-2000/&#34;&gt;link&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Espro press travel mug (&lt;a href=&#34;http://www.kaffemekka.dk/shop/2064-espro/4091-espro-travel-coffee-press-350ml/&#34;&gt;link&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
+	<atom:link href="https://hagbarth.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>New Schedule!</title>
@@ -38,43 +17,8 @@
       <pubDate>Wed, 07 Sep 2016 00:12:04 +0200</pubDate>
       
       <guid>https://hagbarth.github.io/post/new-schedule/</guid>
-      <description>
-
-&lt;h1 id=&#34;i-have-a-new-schedule&#34;&gt;I have a new schedule!&lt;/h1&gt;
-
-&lt;h3 id=&#34;do-you-want-to-see-it&#34;&gt;Do you want to see it?&lt;/h3&gt;
-
-&lt;p&gt;So I read this &lt;a href=&#34;https://medium.com/the-mission/how-to-structure-your-day-for-optimal-performance-and-productivity-dcbf0665e3f3&#34;&gt;Medium post&lt;/a&gt;
-about how you should get up really early in the morning and work very focused for about 5 ours before doing anything else.&lt;/p&gt;
-
-&lt;p&gt;Well - I&amp;rsquo;m not gonna get up at 5am as the guy who wrote the post does. That&amp;rsquo;s just not me. But I &lt;strong&gt;am&lt;/strong&gt; gonna get up at &lt;em&gt;before&lt;/em&gt; 7am and make sure that I&amp;rsquo;m ready to work by that time. Why? Because the post outlines a thing, that I&amp;rsquo;ve been thinking about for a while.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Being focused while working matters. A lot! - Probably Einstein&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Anyway. I&amp;rsquo;m writing this a 12:30 am sooooh, but I promises I will. keep. to. this. schedule.&lt;/p&gt;
-
-&lt;p&gt;So without further ado - my day:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Before 7am (preferably 6:30am):&lt;/strong&gt; GET UP. Make some coffee and oatmeal. Sit down at my computer. Contemplate if there&amp;rsquo;s time. Or meditate.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;7am - 11am&lt;/strong&gt;: Get an overview of what needs to be done. Open my über cool &lt;a href=&#34;http://pomodorotechnique.com/&#34;&gt;pomodoro&lt;/a&gt; timer app and get to work.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;11am - 1pm&lt;/strong&gt;: Lunch and gym (also shower)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;1pm - ~5pm&lt;/strong&gt;: Got more work to do? Go to a café. Order an americano and get going. Also meetings. And catching up with friends family etc.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;5pm - ~8pm&lt;/strong&gt;: Dinner and quality time with the missus or friends.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;8pm - ~23am&lt;/strong&gt;: Got even more work? (really? It won&amp;rsquo;t be quality at this time, so it better be routine stuff.) Do it! If not: Write blog posts. Watch tv. Have fun. Contemplate.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Before 12am&lt;/strong&gt;: Go to bed already.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;So that&amp;rsquo;s my new day! Not getting up to early. I don&amp;rsquo;t need the early mornings to have quiet time. I work mostly from home and my girlfriend leaves before 7am anyway, so I have plenty of wiggle room for my brain to operate in. Also blocked out time for &lt;em&gt;not work&lt;/em&gt;. This is key to not getting burned out (and keeping my SO). Still on really busy days I have a good 11 hours to work in!&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;ll have more stuff on &lt;strong&gt;pomodoro&lt;/strong&gt; and how this works out for me.&lt;/p&gt;
-
-&lt;p&gt;&amp;ndash;&lt;/p&gt;
-
-&lt;p&gt;Emil Hagbarth&lt;/p&gt;
-</description>
+      <description>So I read this Medium post about how you should get up really early in the morning and work very focused for about 5 ours before doing anything else.
+Well - I&amp;rsquo;m not gonna get up at 5am as the guy who wrote the post does. That&amp;rsquo;s just not me. But I am gonna get up at before 7am and make sure that I&amp;rsquo;m ready to work by that time. Why?</description>
     </item>
     
   </channel>
